@@ -3,11 +3,15 @@
 ## Profile :fish:
 
 - A developer who is passionate about creating meaningful experiences for users. 
-- In addition to my background in management and business operations, I am also interested in branding, marketing, and communication. 
+- In addition to my background in management and business operations, I'm also interested in branding, marketing, and communication. 
 
-- I am fluent in both French and English. 
+- Fluent in both French and English. 
 
 - When I'm not working, you can find me exploring new hobbies and ideas, always striving to learn and grow as a person.
+
+
+## Current Work :fishing_pole_and_fish:
+Flask web application allowing users to review their working shifts and values.
 
 ## Tools :trident:
 
