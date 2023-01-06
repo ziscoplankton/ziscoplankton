@@ -1,6 +1,6 @@
 ![alt](bannerplankton2.jpg)
 
-## Profile :fish:
+<div align="center"> <h2> Profile :fish:</h3> </div>
 
 - A developer who is passionate about creating meaningful experiences for users. 
 - In addition to my background in management and business operations, I'm also interested in branding, marketing, and communication. 
@@ -9,14 +9,17 @@
 
 - When I'm not working, you can find me exploring new hobbies and ideas, always striving to learn and grow as a person.
 
+<br>
 
-## Current Work :fishing_pole_and_fish:
-Flask web application allowing users to review their working shifts and values.
+### Current Work :fishing_pole_and_fish: 
+  
+Flask web application allowing users to review their working shifts and values. 
 
-## Tools :trident:
+<br>
 
+### Tools :trident:
 
-<table align="center">
+<table>
   <thead>
     <th>Languages</th>
     <th>Frameworks</th>
@@ -72,15 +75,17 @@ Flask web application allowing users to review their working shifts and values.
    </tbody>
 </table>
 
+<br>
 
-## Certs :anchor:
+### Certs :anchor: 
 - CCNA
 - CS50x
 
-## Stats :ocean:
-<div align="center">
+<br>
+
+### Stats :ocean: 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziscoplankton&theme=dark&background=00000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziscoplankton&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
