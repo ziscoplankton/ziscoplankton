@@ -69,7 +69,7 @@ I'm currently open to positions and projects
        <tr>
         <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql logo" width="40px" height="40px" />
-        <td>
+        </td>
        </tr>
    </tbody>
 </table>
