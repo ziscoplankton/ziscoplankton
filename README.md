@@ -2,7 +2,7 @@
 
 <div align="center"> <h2> Profile :fish:</h3> </div>
 
-- 🔦 I’m currently looking for a position and/or projects to work for
+- 🔦 I’m currently exploring ML, security
 - 🔌 Most used line of code `pip install`
 - 🔍 I’m looking for help with Three JS, Blender
 - 📫 How to reach me: ziscoplankton@gmail.com
