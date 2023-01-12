@@ -40,11 +40,15 @@ I'm currently open to positions and projects
           <td align="center">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c logo" width="40px" height="40px"/>
           </td>
+         <td></td>
+         <td></td>
        </tr>
        <tr>
-       <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript logo" width="40px" height="40px"/>
-       </td>
+         <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript logo" width="40px" height="40px"/>
+         </td>
+         <td></td>
+         <td></td>
        </tr>
        <tr>
           <td align="center">
