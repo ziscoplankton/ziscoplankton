@@ -2,18 +2,17 @@
 
 <div align="center"> <h2> Profile :fish:</h3> </div>
 
-- A developer who is passionate about creating meaningful experiences for users. 
-- In addition to my background in management and business operations, I'm also interested in branding, marketing, and communication. 
-
-- Fluent in both French and English. 
-
-- When I'm not working, you can find me exploring new hobbies and ideas, always striving to learn and grow as a person.
+- 🔦 I’m currently looking for a position and/or projects to work for
+- 🔌 Most used line of code `pip install`
+- 🔍 I’m looking for help with Three JS, Blender
+- 📫 How to reach me: ziscoplankton@gmail.com
+- 🧲 Fun fact: I have 10 years experience in management
 
 <br>
 
 ### Current Work :fishing_pole_and_fish: 
   
-Flask web application allowing users to review their working shifts and values. 
+I'm currently open to positions and projects
 
 <br>
 
@@ -30,7 +29,7 @@ Flask web application allowing users to review their working shifts and values.
         <td align="center"><img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" width="40px" height="40px" />
         </td>
         <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask logo" width="40px" height="40px" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask logo" width="40px" height="40px" />
         </td>
         <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy logo" width="40px" height="40px" />
@@ -87,4 +86,24 @@ Flask web application allowing users to review their working shifts and values.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziscoplankton&theme=dark&background=00000)](https://git.io/streak-stats)
 
+## Author
+
+👤 **Farlane Badache**
+
+* Website: ziscoplankton.github.io
+* Github: [@ziscoplankton](https://github.com/ziscoplankton)
+
+<br><br><br>
+
+## Show your support
+
+Give a ⭐️ if this project helped you or if you just liked it!
+
+<br><br><br>
+
+## Contribute
+
+If you have any suggestions or improvements, please feel free to submit a pull request.
+
+<br><br><br>
 
