@@ -97,13 +97,13 @@ I'm currently open to positions and projects
 
 ## Show your support
 
-Give a ⭐️ if this project helped you or if you just liked it!
+Give a ⭐️!
 
 <br><br><br>
 
 ## Contribute
 
-If you have any suggestions or improvements, please feel free to submit a pull request.
+If you have any projects that you'd like to discuss, please feel free to reach me!
 
 <br><br><br>
 
