@@ -2,9 +2,9 @@
 
 <div align="center"> <h2> Profile :fish:</h3> </div>
 
-- 🔦 I’m currently exploring ML, security
+- 🔦 I’m currently exploring programming & networking
 - 🔌 Most used line of code `pip install`
-- 🔍 I’m looking for help with Three JS, Blender
+- 🔍 I’m looking for ressources on Numpy, Three JS, Blender, CNNP stuff
 - 📫 How to reach me: ziscoplankton@gmail.com
 - 🧲 Fun fact: I have 10 years experience in management
 
@@ -12,7 +12,7 @@
 
 ### Current Work :fishing_pole_and_fish: 
   
-I'm currently open to positions and projects
+I'm currently open to position(s) and project(s)
 
 <br>
 
@@ -82,6 +82,8 @@ I'm currently open to positions and projects
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziscoplankton&theme=dark&background=00000)](https://git.io/streak-stats)
 
+<br>
+
 ## Author
 
 👤 **Farlane Badache**
@@ -89,17 +91,8 @@ I'm currently open to positions and projects
 * Website: ziscoplankton.github.io
 * Github: [@ziscoplankton](https://github.com/ziscoplankton)
 
-<br><br><br>
+<br>
 
-## Show your support
-
-Give a ⭐️!
-
-<br><br><br>
-
-## Contribute
+## Collaborations
 
 If you have any projects that you'd like to discuss, please feel free to reach me!
-
-<br><br><br>
-
