@@ -4,7 +4,7 @@
 
 - 🔦 I’m currently exploring programming & networking
 - 🔌 Most used line of code `pip install`
-- 🔍 I’m looking for ressources on Numpy, Three JS, Blender, CNNP stuff
+- 🔍 I’m looking for ressources on 3d modelling, R3F & CNNP stuff
 - 📫 How to reach me: ziscoplankton@gmail.com
 - 🧲 Fun fact: I've worked 20+ hours shifts
 
