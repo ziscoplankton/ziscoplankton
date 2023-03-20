@@ -29,10 +29,9 @@ I'm currently open to position(s) and project(s)
         <td align="center"><img    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" width="40px" height="40px" />
         </td>
         <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" alt="flask logo" width="40px" height="40px" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  alt="django logo" width="30px" height="30px" />
         </td>
         <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy logo" width="40px" height="40px" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy logo" width="40px" height="40px" />
         </td>
        </tr>
@@ -47,8 +46,12 @@ I'm currently open to position(s) and project(s)
          <td align="center">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="javascript logo" width="40px" height="40px"/>
          </td>
-         <td></td>
-         <td></td>
+         <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" width="40px" height="40px"/>
+         </td>
+         <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="three logo" width="40px" height="40px"//>
+         </td>
        </tr>
        <tr>
           <td align="center">
