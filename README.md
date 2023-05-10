@@ -1,6 +1,6 @@
-![alt](bannerplankton2.jpg)
 
-<div align="center"> <h2> Profile :fish:</h3> </div>
+
+<div align="center"> <h2> Profile </h2> </div>
 
 - 🔦 I’m currently exploring programming & networking
 - 🔌 Most used line of code `pip install`
@@ -10,13 +10,13 @@
 
 <br>
 
-### Current Work :fishing_pole_and_fish: 
+### Current Work 
   
 I'm currently open to position(s) and project(s)
 
 <br>
 
-### Tools :trident:
+### Tools 
 
 <table>
   <thead>
@@ -75,27 +75,9 @@ I'm currently open to position(s) and project(s)
 
 <br>
 
-### Certs :anchor: 
+### Certs
 - CCNA
-- CS50x
+- CS50X
+- -CS50W
 
 <br>
-
-### Stats :ocean: 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziscoplankton&theme=dark&background=00000)](https://git.io/streak-stats)
-
-<br>
-
-## Author
-
-👤 **Farlane Badache**
-
-* Website: ziscoplankton.github.io
-* Github: [@ziscoplankton](https://github.com/ziscoplankton)
-
-<br>
-
-## Collaborations
-
-If you have any projects that you'd like to discuss, please feel free to reach me!
