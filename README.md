@@ -10,11 +10,6 @@
 
 <br>
 
-### Current Work 
-  
-I'm currently open to position(s) and project(s)
-
-<br>
 
 ### Tools 
 
