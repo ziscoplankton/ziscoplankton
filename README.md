@@ -1,10 +1,10 @@
 
 
-<div align="center"> <h2> Profile </h2> </div>
+## Profile
 
-- 🔦 I’m currently exploring programming & networking
-- 🔌 Most used line of code `pip install`
-- 🔍 I’m looking for ressources on 3d modelling, R3F & CNNP stuff
+- 🔦 I’m currently exploring 2d and 3d designs
+- 🔌 Most used line of code `npm run dev`
+- 🔍 I’m looking for ressources on 3d modelling, R3F & CNNP
 - 📫 How to reach me: ziscoplankton@gmail.com
 - 🧲 Fun fact: I've worked 20+ hours shifts
 
