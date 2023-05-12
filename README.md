@@ -73,6 +73,6 @@
 ### Certs
 - CCNA
 - CS50X
-- -CS50W
+- CS50W
 
 <br>
