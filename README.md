@@ -4,7 +4,7 @@
 
 - 🔦 I’m currently exploring 2d and 3d designs
 - 🔌 Most used line of code `npm run dev`
-- 🔍 I’m looking for ressources on 3d modelling, R3F & CNNP
+- 🔍 I’m looking for ressources on 3d modelling and grid layouts
 - 📫 How to reach me: ziscoplankton@gmail.com
 - 🧲 Fun fact: I've worked 20+ hours shifts
 
